@@ -69,7 +69,7 @@ class AppTest {
                 "       /\\__/\\ \\__O (__" + System.lineSeparator() +
                 "      (--/\\--)    \\__/" + System.lineSeparator() +
                 "      _)(  )(_" + System.lineSeparator() +
-                "     `---''---`" + System.lineSeparator();
+                "     `---'---'`" + System.lineSeparator();
 
         // assertion
         assertEquals(output, bos.toString());
